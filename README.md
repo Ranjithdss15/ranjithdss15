@@ -43,7 +43,7 @@
 
 
 #### Checkout some of my tracks from SoundCloud
-![SoundCloud](https://img.shields.io/badge/-SoundCloud-orange?&logo=SoundCloud&logoColor=white&style=for-the-badge&link=https://soundcloud.com/ranjith_doss/) 
+[![SoundCloud](https://img.shields.io/badge/-SoundCloud-orange?&logo=SoundCloud&logoColor=white&style=for-the-badge&link=https://soundcloud.com/ranjith_doss/)](https://soundcloud.com/ranjith_doss/)  
 
 
 #### Thanks for your time. Hope to see you soon.
