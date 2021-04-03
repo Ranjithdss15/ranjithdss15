@@ -1,16 +1,62 @@
-### Hi there 👋
+## Hi There!! I am Cami Ranjith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
 
-<!--
-**Ranjithdss15/ranjithdss15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: Ranjith](https://img.shields.io/twitter/follow/Ranjithdss?style=social)](https://twitter.com/Ranjithdss) 
+[![GitHub: Ranjith](https://img.shields.io/github/followers/ranjithdss15?&style=social)](https://twitter.com/Ranjithdss) 
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?&logo=Instagram&link=https://www.instagram.com/ranjith_doss/)](https://www.instagram.com/ranjith_doss/) 
+[![Facebook](https://img.shields.io/badge/-Facebook-8fd8ff?&logo=Facebook&link=https://www.facebook.com/ranjith.doss/)](https://www.facebook.com/ranjith.doss/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/camillus-ranjith-dos-p-42b197b9/)](https://www.linkedin.com/in/camillus-ranjith-dos-p-42b197b9)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📖 About Me
+😄 Pronouns: Cloud guy/He/His   
+☁️ I am a Senior CloudOps and DevOps Engineer   
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="15px"> I am self taught NodeJs Developer.   
+🛠️ I have developed tools and dashboards to make DevOps simpler.  
+👐🏻 I hope to contribute more to opensource. That's definitely in my bucketlist.  
+⚛️ I'm currently learning ReactJS.      
+💻 I love exploring new tech stack.        
+💬 Ask me anything about the technologies, we can brainstrom and I am happy to help!   
+🙋🏻‍♂️ I love to make friends so if you want to say hi, I'll be happy to meet you more!
+
+## Languages and Tools:
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900) 
+![Groovy](https://img.shields.io/badge/-Groovy-000?&logo=Apache%20Groovy)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) 
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) 
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)  
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
+
+## Personal Stuffs and Fun facts.
+
+<img src="https://media1.giphy.com/media/jDa4r7bK1k00g/giphy.gif?cid=ecf05e472cv7un7rmcxuhkpp2rsqj2u2emws8egle7z2mkc3&rid=giphy.gif" width="25px"> I'm a Pianist and love to compose.   
+<img src="https://media.giphy.com/media/ej6hUW4OqJe2R1nh32/giphy.gif" width="25px"> I'm a self taught Guitarist and currently focusing on lead.   
+<img src="https://media.giphy.com/media/hWobKVb4OY9cxYLcAn/giphy.gif" width="25px"> I have a great love towards music. A.R.Rahman is always my inspiration.  
+<img src="https://media.giphy.com/media/j3nq3JkXp0bkFXcNlE/giphy.gif" width="25px"> I love Sound Designing and Keyboard Programming. I have Composed and Music Directed short films.  
+<img src="https://media.giphy.com/media/1Yd8uhaqghxnKPxqbC/giphy.gif" height="25px" style="padding-right: 7px;"> I love to travel. One day I hope to visit Paris.  
+
+
+#### Checkout some of my tracks from SoundCloud
+![SoundCloud](https://img.shields.io/badge/-SoundCloud-orange?&logo=SoundCloud&logoColor=white&style=for-the-badge&link=https://soundcloud.com/ranjith_doss/) 
+
+
+#### Thanks for your time. Hope to see you soon.
+<h5 align="center"> With all <img src="https://media.giphy.com/media/YondZW6AMjgTEHevF0/giphy.gif" width="25px"> Cami Ranjith</h5>
+
+
+
+---
+#### GitHub Stat
+
+[![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjithdss15&show_icons=true&theme=algolia)](https://github.com/ranjithdss15)
+
+I will work to contribute more to OpenSource. 
+
+
+
