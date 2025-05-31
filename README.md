@@ -15,8 +15,8 @@
 😄 Pronouns: Cloud guy/He/His   
 ☁️ I am a Principal DevOps Engineer   
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="15px"> I am self taught NodeJs and ReactJS Developer.   
-🛠️ I have developed full stack tools and application and dashboards to make DevOps simpler. 
-🤖 I'm passionate about AI, with hands-on experience building RAG applications and interactive bots.
+🛠️ I have developed full stack tools and application and dashboards to make DevOps simpler.    
+🤖 I'm passionate about AI, with hands-on experience building RAG applications and interactive bots.    
 👐🏻 I hope to contribute more to opensource. That's definitely in my bucketlist.  
 💻 I love exploring new tech stack.        
 💬 Ask me anything about the technologies, we can brainstrom and I am happy to help!   
