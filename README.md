@@ -3,11 +3,11 @@
     <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="90px" href="https://www.credly.com/badges/0af576ff-f6f0-48db-9ddc-b0ec73234906?source=linked_in_profile" align="right">
 </a>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/camillus-ranjith-dos-p-42b197b9/)](https://www.linkedin.com/in/camillus-ranjith-paul/)
 [![Twitter: Ranjith](https://img.shields.io/twitter/follow/Ranjithdss?style=social)](https://twitter.com/Ranjithdss) 
-[![GitHub: Ranjith](https://img.shields.io/github/followers/ranjithdss15?&style=social)](https://twitter.com/Ranjithdss) 
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?&logo=Instagram&link=https://www.instagram.com/ranjith_doss/)](https://www.instagram.com/ranjith_doss/) 
 [![Facebook](https://img.shields.io/badge/-Facebook-8fd8ff?&logo=Facebook&link=https://www.facebook.com/ranjith.doss/)](https://www.facebook.com/ranjith.doss/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/camillus-ranjith-dos-p-42b197b9/)](https://www.linkedin.com/in/camillus-ranjith-paul/)
+<!-- [![GitHub: Ranjith](https://img.shields.io/github/followers/ranjithdss15?&style=social)](https://twitter.com/Ranjithdss) -->
 
 
 
