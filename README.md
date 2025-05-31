@@ -13,11 +13,11 @@
 
 ## 📖 About Me
 😄 Pronouns: Cloud guy/He/His   
-☁️ I am a Senior CloudOps and DevOps Engineer   
-<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="15px"> I am self taught NodeJs Developer.   
-🛠️ I have developed tools and dashboards to make DevOps simpler.  
+☁️ I am a Principal DevOps Engineer   
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="15px"> I am self taught NodeJs and ReactJS Developer.   
+🛠️ I have developed full stack tools and application and dashboards to make DevOps simpler. 
+🤖 I'm passionate about AI, with hands-on experience building RAG applications and interactive bots.
 👐🏻 I hope to contribute more to opensource. That's definitely in my bucketlist.  
-⚛️ I'm currently learning ReactJS.      
 💻 I love exploring new tech stack.        
 💬 Ask me anything about the technologies, we can brainstrom and I am happy to help!   
 🙋🏻‍♂️ I love to make friends so if you want to say hi, I'll be happy to meet you more!
@@ -34,6 +34,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=react) 
+![Python](https://img.shields.io/badge/-Python-000?&logo=python) 
+![Huggingface](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
+![Langchain](https://img.shields.io/badge/-Langchain-000?&logo=langchain)
+![Huggingface](https://img.shields.io/badge/-Huggingface-000?&logo=huggingface)
+![Huggingface](https://img.shields.io/badge/-Ollama-000?&logo=ollama)
+
 
 ## Personal Stuffs and Fun facts.
 
@@ -41,14 +48,14 @@
 <img src="https://media.giphy.com/media/ej6hUW4OqJe2R1nh32/giphy.gif" width="25px"> I'm a self taught Guitarist and currently focusing on lead.   
 <img src="https://media.giphy.com/media/hWobKVb4OY9cxYLcAn/giphy.gif" width="25px"> I have a great love towards music. A.R.Rahman is always my inspiration.  
 <img src="https://media.giphy.com/media/j3nq3JkXp0bkFXcNlE/giphy.gif" width="25px"> I love Sound Designing and Keyboard Programming. I have Composed and Music Directed short films.  
-<img src="https://media.giphy.com/media/1Yd8uhaqghxnKPxqbC/giphy.gif" height="25px" style="padding-right: 7px;"> I love to travel. One day I hope to visit Paris.  
+<img src="https://media.giphy.com/media/1Yd8uhaqghxnKPxqbC/giphy.gif" height="25px" style="padding-right: 7px;"> I love to travel and hope to visit Paris someday.  
 
 
 #### Checkout some of my tracks from SoundCloud
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-orange?&logo=SoundCloud&logoColor=white&style=for-the-badge&link=https://soundcloud.com/ranjith_doss/)](https://soundcloud.com/ranjith_doss/)  
 
 
-#### Thanks for your time. Hope to see you soon.
+#### Thanks for your time. See you again.
 <h5 align="center"> With all <img src="https://media.giphy.com/media/YondZW6AMjgTEHevF0/giphy.gif" width="25px"> Cami Ranjith</h5>
 
 
